@@ -1,0 +1,1 @@
+Jetson orin nano 환경 세팅입니다
