@@ -24,6 +24,6 @@
 - 비영리 목적에 한해 공유, 수정이 가능하며, 원저작자를 명시해야 합니다.  
 - **악의적 사용, 불법 활동, 보안 취약점 악용 등은 금지됩니다.**  
 - 상업적 사용은 별도 허가가 필요합니다.  
-자세한 내용은 [docs/LICENCE.md](.docs/LICENCE.md) 파일을 참고하세요.
+자세한 내용은 [CC-BY-NC-ND 4.0](https://github.com/BarnOwl5/Jetson-lab-notes/blob/main/docs/LICENCE.md) 파일을 참고하세요.
 
 © 2025 BarnOwl5
