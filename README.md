@@ -1,6 +1,9 @@
 # Jetson Lab Notes
 
-이 저장소는 Jetson 관련 실험, 설정, 마이그레이션 가이드 등을 정리하는 공간입니다.
+이 저장소는 Jetson 관련 실험, 설정, 마이그레이션 가이드 등을 정리하는 개인 학습 공간입니다.
+
+
+(⚠️ Notice: This repository is maintained for personal documentation purposes. Issues and PRs may not be reviewed or accepted.)
 
 ## Guides
 
