@@ -140,9 +140,8 @@ sudo sed -n '1,120p' /etc/fstab
 ```
 
 ---
-># Documentation for MicroSD to SSD Migration
 
-이 문서는 Jetson Orin Nano 환경에서 SSD로 마이그레이션하는 절차를 설명합니다.  
+이 문서는 학습 목적으로 Jetson Orin Nano 환경에서 SSD로 마이그레이션하는 절차를 설명합니다.  
 
 ## License
 
