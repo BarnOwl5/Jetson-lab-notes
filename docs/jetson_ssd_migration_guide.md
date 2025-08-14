@@ -138,3 +138,13 @@ stat /mnt/ssdroot/etc/fstab
 mount | grep " / "
 sudo sed -n '1,120p' /etc/fstab
 ```
+
+---
+># Documentation for MicroSD to SSD Migration
+
+이 문서는 Jetson Orin Nano 환경에서 SSD로 마이그레이션하는 절차를 설명합니다.  
+
+## License
+
+이 문서는 [CC BY-NC-ND 4.0](./LICENSE) 라이선스 하에 배포됩니다.  
+비상업적 사용만 허용되며, 원문을 그대로 유지해야 합니다.
