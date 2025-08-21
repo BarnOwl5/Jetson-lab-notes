@@ -1,10 +1,11 @@
 ## Jetson Lab Notes
 
 이 저장소는 Jetson 관련 실험, 설정, 마이그레이션 가이드 등을 정리하는 개인 학습 공간입니다.
+
 ⚠️ Notice: This repository is primarily for personal documentation purposes. Issues and PRs may not be reviewed or accepted.
 
 
-## Guides
+## 📖 Guides
 
 ### MicroSD -> SSD Migration Guide
 Jetson Orin Nano의 MicroSD 기반 Root 파일 시스템을 NVMe SSD로 마이그레이션하는 방법을 정리한 가이드입니다.
@@ -18,7 +19,7 @@ Jetson 환경에서 Snap 기반 Firefox를 제거하고 MozillaTeam PPA 기반�
 - **KOR ver : [Jetson Firefox Setup(KOR)](./docs/KOR/jetson_firefox_setup(KOR).md)**  
 
 
-## 🛡️ 라이선스
+## 📜 License
 
 ### 🔧 Code
 모든 소스코드는 **GNU GPL v3** 라이선스를 따릅니다.
