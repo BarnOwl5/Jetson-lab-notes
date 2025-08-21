@@ -121,7 +121,8 @@ sudo sed -n '1,120p' /etc/fstab
 
 ## License
 
-이 문서는 학습 목적으로 Jetson Orin Nano 환경에서 SSD로 마이그레이션하는 절차를 설명합니다.
-또한 [CC BY-NC-ND 4.0](./LICENSE) 라이선스 하에 배포됩니다.  
+이 문서는 [CC BY-NC-ND 4.0](./LICENSE) 라이선스를 따릅니다.
+
+- 수정 불가 
 - 비상업적 사용만 허용
 - 원문을 그대로 유지해야 함
