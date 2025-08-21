@@ -102,6 +102,7 @@ stat /mnt/ssdroot/etc/fstab
 ### 3. fstab still shows /dev/root
 
 Even if `/etc/fstab/` shows `/dev/root`, the system can still boot from SSD.
+
 Verify with:
 ```bash
 mount | grep " / "
