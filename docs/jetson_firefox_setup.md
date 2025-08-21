@@ -10,7 +10,7 @@ sudo apt autoremove
 ```
 
 ### 2. Add the Mozillateam PPA
-Enable the official Mozillateam PPA, which provides regularly updated **.deb** packages of Firefox.
+Enable the official Mozillateam PPA, which provides regularly updated `.deb` packages of Firefox.
 ```bash
 sudo add-apt-repository ppa:mozillateam/ppa
 sudo apt update
@@ -34,7 +34,7 @@ sudo apt install firefox -y
 ```
 
 ### 5. Verify Binary Path
-Confirm that the binary points to **/usr/bin/firefox** (PPA Version), not **/snap/bin/firefox**.
+Confirm that the binary points to `/usr/bin/firefox` (PPA Version), not `/snap/bin/firefox`.
 ```bash
 which firefox
 >> /usr/bin/firefox
