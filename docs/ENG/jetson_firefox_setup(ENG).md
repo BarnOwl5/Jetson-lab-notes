@@ -60,4 +60,7 @@ source ~/.bashrc
 
 ## License
 This work is licensed under [CC BY-NC-ND 4.0](./LICENSE) 
-(비상업적 사용만 허용되며, 원문을 그대로 유지해야 합니다.)
+
+- Non-commercial use only
+- Attribution required
+- No modifications
