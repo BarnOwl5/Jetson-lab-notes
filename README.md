@@ -1,4 +1,9 @@
 ## Jetson Lab Notes
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Docs: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--SA%204.0-green)
+![JetPack](https://img.shields.io/badge/JetPack-6.x-orange)
+![Platform](https://img.shields.io/badge/Platform-Jetson%20Orin%20Nano-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-ENG%20%7C%20KOR-red)
 
 이 저장소는 Jetson 관련 실험, 설정, 마이그레이션 가이드 등을 정리하는 개인 학습 공간입니다.
 
