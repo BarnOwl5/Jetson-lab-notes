@@ -10,12 +10,12 @@
 Jetson Orin Nano의 MicroSD 기반 Root 파일 시스템을 NVMe SSD로 마이그레이션하는 방법을 정리한 가이드입니다.
 
 - **ENG ver : [MicroSD -> SSD Migration Guide(ENG)](./docs/ENG/jetson_ssd_migration_guide(ENG).md)**
-- **KOR ver : [MicroSD -> SSD Migration Guide(KOR)](./docs/ENG/jetson_ssd_migration_guide(KOR).md)**  
+- **KOR ver : [MicroSD -> SSD Migration Guide(KOR)](./docs/KOR/jetson_ssd_migration_guide(KOR).md)**  
 
 ### Firefox Setup Guide
 Jetson 환경에서 Snap 기반 Firefox를 제거하고 MozillaTeam PPA 기반으로 설치 및 업데이트하는 가이드입니다.
-- **ENG ver : [Jetson Firefox Setup(ENG)](./docs/jetson_firefox_setup(ENG).md)**
-- **KOR ver : [Jetson Firefox Setup(KOR)](./docs/jetson_firefox_setup(KOR).md)**  
+- **ENG ver : [Jetson Firefox Setup(ENG)](./docs/ENG/jetson_firefox_setup(ENG).md)**
+- **KOR ver : [Jetson Firefox Setup(KOR)](./docs/KOR/jetson_firefox_setup(KOR).md)**  
 
 
 ## 🛡️ 라이선스
